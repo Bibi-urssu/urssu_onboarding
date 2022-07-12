@@ -130,6 +130,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         
         self.timeLabel = timeLabel
         self.updateTimeLabelText(time: 0)
+        
     }
     
     func addProgressSlider() {
